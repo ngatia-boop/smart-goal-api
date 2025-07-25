@@ -1,3 +1,9 @@
 {
-  "goals": []
+  "goals": [
+    {
+      "id": 1,
+      "title": "Save for new laptop",
+      "amount": 500
+    }
+  ]
 }
